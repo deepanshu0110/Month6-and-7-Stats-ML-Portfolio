@@ -27,25 +27,25 @@
 
 | Day | Topic | Score |
 |-----|-------|-------|
-| Day 101 | Descriptive Stats + Distributions | 80/80 ✅ |
+| Day 101 | Statistics Foundations | 80/80 ✅ |
 | Day 102 | T-Tests + Confidence Intervals | 80/80 + 10★ ✅ |
 | Day 103 | Chi-Square + ANOVA | 80/80 + 10★ ✅ |
-| Day 104 | A/B Testing with scipy | 80/80 + 10★ ✅ |
-| Day 105 | Week 1 Mini-Project | 80/80 + 10★ ✅ |
-| Day 106 | Hypothesis Testing Deep Dive | 80/80 + 10★ ✅ |
-| Day 107 | Effect Size + Statistical Power | 80/80 + 10★ ✅ |
-| Day 108 | Week 2 Mini-Project | 80/80 + 10★ ✅ |
-| Day 109 | Linear Regression Foundations | 80/80 + 10★ ✅ |
-| Day 110 | Train-Test Split + R² + RMSE | 80/80 + 10★ ✅ |
-| Day 111 | Feature Selection | 80/80 + 10★ ✅ |
-| Day 112 | PCA — Principal Component Analysis | 80/80 + 10★ ✅ |
-| Day 113 | Week 3 Mini-Project | **100/100 + 15★** ✅ |
-| Day 114 | Cross-Validation (KFold + StratifiedKFold) | 80/80 + 10★ ✅ |
+| Day 104 | A/B Testing | 80/80 + 10★ ✅ |
+| Day 105 | Week 2 Stats Capstone | 80/80 + 10★ ✅ |
+| Day 106 | Linear Regression | 80/80 + 10★ ✅ |
+| Day 107 | Logistic Regression Classification | 80/80 + 10★ ✅ |
+| Day 108 | Decision Trees + Random Forest | 80/80 + 10★ ✅ |
+| Day 109 | Gradient Boosting + XGBoost | 80/80 + 10★ ✅ |
+| Day 110 | K-Means Clustering | 80/80 + 10★ ✅ |
+| Day 111 | Hierarchical Clustering + DBSCAN | 80/80 + 10★ ✅ |
+| Day 112 | PCA Dimensionality Reduction | 80/80 + 10★ ✅ |
+| Day 113 | Week 5 Mini-Project | **100/100 + 15★** ✅ |
+| Day 114 | Cross-Validation | 80/80 + 10★ ✅ |
 | Day 115 | Scikit-learn Pipeline API | 80/80 + 10★ ✅ |
 | Day 116 | GridSearchCV + Hyperparameter Tuning | 80/80 + 10★ ✅ |
-| Day 117 | Ensemble Methods — Random Forest + Gradient Boosting | 80/80 + 10★ ✅ |
+| Day 117 | Ensemble Methods | 80/80 + 10★ ✅ |
 | Day 118 | SHAP Explainability | 80/80 + 10★ ✅ |
-| Day 119 | Imbalanced Datasets (SMOTE + class_weight) | 80/80 + 10★ ✅ |
+| Day 119 | Imbalanced Data | 80/80 + 10★ ✅ |
 | Day 120 | **Month 6 Capstone — Full ML Pipeline** | **119/120** ✅ |
 
 **Month 6 final: 1,659 / 1,660 pts + 185★**
@@ -59,21 +59,21 @@
 | Day 121 | XGBoost — Gradient Boosting | 80/80 + 10★ ✅ |
 | Day 122 | LightGBM — Leaf-wise Boosting | 80/80 + 10★ ✅ |
 | Day 123 | CatBoost — Native Categoricals | 80/80 + 10★ ✅ |
-| Day 124 | Ensemble Stacking | 80/80 + 10★ ✅ |
-| Day 125 | Data Leakage Detection + Prevention | 80/80 + 10★ ✅ |
-| Day 126 | SHAP — Advanced Explainability | 80/80 + 10★ ✅ |
-| Day 127 | PCA + t-SNE Visualisation | 80/80 + 10★ ✅ |
-| Day 128 | K-Means Clustering | 80/80 + 10★ ✅ |
-| Day 129 | Hierarchical Clustering + DBSCAN | 80/80 + 10★ ✅ |
-| Day 130 | Week 2 Mini-Project | 80/80 + 10★ ✅ |
-| Day 131 | Feature Selection (RFE + Permutation) | 80/80 + 10★ ✅ |
+| Day 124 | Boosting Trilogy Showdown | 80/80 + 10★ ✅ |
+| Day 125 | Stacking + Blending Ensembles | 80/80 + 10★ ✅ |
+| Day 126 | K-Means Clustering | 80/80 + 10★ ✅ |
+| Day 127 | DBSCAN | 80/80 + 10★ ✅ |
+| Day 128 | Hierarchical Clustering | 80/80 + 10★ ✅ |
+| Day 129 | SHAP Values | 80/80 + 10★ ✅ |
+| Day 130 | PCA + t-SNE | 80/80 + 10★ ✅ |
+| Day 131 | Feature Selection | 80/80 + 10★ ✅ |
 | Day 132 | Hyperparameter Tuning with Optuna | 80/80 + 10★ ✅ |
-| Day 133 | Time Series — ARIMA + statsmodels | 80/80 + 10★ ✅ |
-| Day 134 | Time Series — Prophet + Forecasting | 80/80 + 10★ ✅ |
+| Day 133 | Time Series — ARIMA | 80/80 + 10★ ✅ |
+| Day 134 | Time Series — Prophet Forecasting | 80/80 + 10★ ✅ |
 | Day 135 | Imbalanced Datasets + SMOTE | 80/80 + 10★ ✅ |
-| Day 136 | Advanced sklearn Pipelines | 80/80 + 10★ ✅ |
+| Day 136 | sklearn Pipelines | 80/80 + 10★ ✅ |
 | Day 137 | Cross-Validation Strategies | 80/80 + 10★ ✅ |
-| Day 138 | Anomaly Detection — Isolation Forest | 80/80 + 10★ ✅ |
+| Day 138 | Anomaly Detection | 80/80 + 10★ ✅ |
 | Day 139 | Month 7 Capstone — Part 1 | 80/80 + 10★ ✅ |
 | Day 140 | Month 7 Capstone — Part 2 | 80/80 + 10★ ✅ |
 
@@ -106,68 +106,74 @@ statsmodels · imbalanced-learn · Pandas · Matplotlib · Seaborn
 
 ## Repo Structure
 
-```
-Month6-Stats-ML-Portfolio/
-├── Day101_Descriptive_Stats.ipynb
-├── Day102_T_Tests_CI.ipynb
-├── Day103_ChiSquare_ANOVA.ipynb
-├── Day104_AB_Testing.ipynb
-├── Day105_Week1_MiniProject.ipynb
-├── Day106_Hypothesis_Testing.ipynb
-├── Day107_Effect_Size_Power.ipynb
-├── Day108_Week2_MiniProject.ipynb
-├── Day109_Linear_Regression.ipynb
-├── Day110_TrainTest_R2_RMSE.ipynb
-├── Day111_Feature_Selection.ipynb
-├── Day112_PCA.ipynb
-├── Day113_Week3_MiniProject.ipynb
-├── Day114_CrossValidation.ipynb
-├── Day115_PipelineAPI.ipynb
-├── Day116_GridSearchCV.ipynb
-├── Day117_Ensemble_Methods.ipynb
-├── Day118_SHAP.ipynb
-├── Day119_Imbalanced_Datasets.ipynb
-├── Day120_Month6_Capstone.ipynb
-└── auto_sync.py
+All notebooks sit in the repo root.
 
-Month7-AdvancedML-Portfolio/
-├── Day121_XGBoost.ipynb
-├── Day122_LightGBM.ipynb
-├── Day123_CatBoost.ipynb
-├── Day124_Ensemble_Stacking.ipynb
-├── Day125_Data_Leakage.ipynb
-├── Day126_SHAP.ipynb
-├── Day127_PCA_tSNE.ipynb
-├── Day128_KMeans_Clustering.ipynb
-├── Day129_Hierarchical_DBSCAN.ipynb
-├── Day130_Week2_MiniProject.ipynb
-├── Day131_Feature_Selection.ipynb
-├── Day132_Optuna_Tuning.ipynb
-├── Day133_ARIMA.ipynb
-├── Day134_Prophet.ipynb
-├── Day135_SMOTE_Imbalanced.ipynb
-├── Day136_Advanced_Pipelines.ipynb
-├── Day137_Cross_Validation.ipynb
-├── Day138_Isolation_Forest.ipynb
-├── capstone/
+```
+Month6-and-7-Stats-ML-Portfolio/
+├── Month 6 (Days 101–120)
+│   ├── Day101_Statistics_Foundations.ipynb
+│   ├── Day102_TTests_CIs.ipynb
+│   ├── Day103_ChiSquare_ANOVA.ipynb
+│   ├── Day104_AB_Testing.ipynb
+│   ├── Day105_Week2_Stats_Capstone.ipynb
+│   ├── Day106_Linear_Regression.ipynb
+│   ├── Day107_Logistic_Regression_Classification.ipynb
+│   ├── Day108_Decision_Trees_Random_Forest.ipynb
+│   ├── Day109_Gradient_Boosting_XGBoost.ipynb
+│   ├── Day110_KMeans_Clustering.ipynb
+│   ├── Day111_Hierarchical_DBSCAN.ipynb
+│   ├── Day112_PCA_Dimensionality_Reduction.ipynb
+│   ├── Day113_Week5_MiniProject.ipynb
+│   ├── Day114_CrossValidation.ipynb
+│   ├── Day115_PipelineAPI.ipynb
+│   ├── Day116_GridSearchCV_HyperparamTuning.ipynb
+│   ├── Day117_Ensemble_Methods.ipynb
+│   ├── Day118_SHAP_Explainability.ipynb
+│   ├── Day119_Imbalanced_Data.ipynb
+│   ├── Day120_Month6_Capstone.ipynb
+├── Month 7 (Days 121–140)
+│   ├── Day121_XGBoost_GradientBoosting.ipynb
+│   ├── Day122_LightGBM_LeafwiseBoosting.ipynb
+│   ├── Day123_CatBoost_NativeCategoricals.ipynb
+│   ├── Day124_BoostingTrilogyShowdown.ipynb
+│   ├── Day125_StackingBlendingEnsembles.ipynb
+│   ├── Day126_KMeans_Clustering.ipynb
+│   ├── Day127_DBSCAN.ipynb
+│   ├── Day128_Hierarchical_Clustering.ipynb
+│   ├── Day129_SHAP_Values.ipynb
+│   ├── Day130_PCA_tSNE.ipynb
+│   ├── Day131_FeatureSelection.ipynb
+│   ├── Day132_Hyperparameter_Tuning_Optuna.ipynb
+│   ├── Day133_TimeSeries_ARIMA.ipynb
+│   ├── Day_134_Prophet_Forecasting.ipynb
+│   ├── Day_135_Imbalanced_Datasets_SMOTE.ipynb
+│   ├── Day_136_sklearn_Pipelines.ipynb
+│   ├── Day137_CrossValidation.ipynb
+│   ├── Day138_Anomaly_Detection.ipynb
 │   ├── Day139_Month7_Capstone_Part1.ipynb
-│   └── Day140_Month7_Capstone_Part2.ipynb
+│   ├── Day140_Month7_Capstone_Part2.ipynb
+├── *.png               # charts exported from the notebooks
 └── auto_sync.py
 ```
 
 ---
 
-## All Months
+## The full 13-month program
 
-| Month | Repo | Highlight | Top Score |
-|-------|------|-----------|-----------|
-| Month 1 — Excel | [excel-data-analytics](https://github.com/deepanshu0110/excel-data-analytics) | 16 workbooks | 88/80 |
-| Month 2 — SQL | [Month2-SQL-Portfolio](https://github.com/deepanshu0110/Month2-SQL-Portfolio) | Window functions, CTEs | 119/120 |
-| Month 3 — Python/Pandas | [Month3-Python-Portfolio](https://github.com/deepanshu0110/Month3-Python-Portfolio) | EDA + math bridge | 100/100 |
-| Month 4 — Power BI + Tableau | [Month4-PowerBI-Tableau-Portfolio](https://github.com/deepanshu0110/Month4-PowerBI-Tableau-Portfolio) | Live Tableau Public dashboard | 110/100 |
-| Month 5 — BI + Upwork | [Month5-BI-Upwork-Portfolio](https://github.com/deepanshu0110/Month5-BI-Upwork-Portfolio) | UrbanNest India capstone | **120/120** |
-| Month 6 — Stats + ML Foundations | *(this repo)* | ShopEase churn pipeline | **1,659/1,660** |
-| Month 7 — Advanced ML | [Month7-AdvancedML-Portfolio](https://github.com/deepanshu0110/Month7-AdvancedML-Portfolio) | RetailPulse India, SHAP, Prophet | **1,440/1,440 🏆** |
+| Month | Focus | Repo |
+|---|---|---|
+| 1 | Excel | [excel-data-analytics](https://github.com/deepanshu0110/excel-data-analytics) |
+| 2 | SQL | [Month2-SQL-Portfolio](https://github.com/deepanshu0110/Month2-SQL-Portfolio) |
+| 3 | Python + Pandas + maths bridge | [Month3-Python-Portfolio](https://github.com/deepanshu0110/Month3-Python-Portfolio) |
+| 4 | Power BI + Tableau | [Month4-PowerBI-Tableau-Portfolio](https://github.com/deepanshu0110/Month4-PowerBI-Tableau-Portfolio) |
+| 5 | Advanced BI + freelance launch | [Month5-BI-Upwork-Portfolio](https://github.com/deepanshu0110/Month5-BI-Upwork-Portfolio) |
+| **6–7** | **Statistics, ML foundations, advanced ML** | **this repo** |
+| 8 | Streamlit + FastAPI deployment | [Month8-Streamlit-FastAPI-Portfolio](https://github.com/deepanshu0110/Month8-Streamlit-FastAPI-Portfolio) |
+| 9 | NLP + deep learning | [Month9-NLP-DeepLearning-Portfolio](https://github.com/deepanshu0110/Month9-NLP-DeepLearning-Portfolio) |
+| 10 | LangChain + MLflow + drift monitoring | [Month10-LangChain-MLflow-Portfolio](https://github.com/deepanshu0110/Month10-LangChain-MLflow-Portfolio) |
+| 11 | Data engineering | [Month11-DataEngineering-Portfolio](https://github.com/deepanshu0110/Month11-DataEngineering-Portfolio) |
+| 12 | Capstone + ResumeGapAI | [Month12-Capstone-Portfolio](https://github.com/deepanshu0110/Month12-Capstone-Portfolio) |
+| 13 | Agentic AI + TeleServe capstone | [Month13-Agentic-AI-Portfolio](https://github.com/deepanshu0110/Month13-Agentic-AI-Portfolio) |
 
 ---
 
